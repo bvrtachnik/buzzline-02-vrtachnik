@@ -87,11 +87,14 @@ def main() -> None:
 
      # Poll and process messages
     logger.info(f"Polling messages from topic '{topic}'...")
+    message_count = 0
     try:
         for message in consumer:
             message_str = message.value
             logger.debug(f"Received message at offset {message.offset}: {message_str}")
             process_message(message_str)
+            message_count += 1
+            logger.info(f"Total messages processed: {message_count}")
     except KeyboardInterrupt:
         logger.warning("Consumer interrupted by user.")
     except Exception as e:
@@ -99,6 +102,7 @@ def main() -> None:
     finally:
         consumer.close()
         logger.info(f"Kafka consumer for topic '{topic}' closed.")
+        logger.info(f"Total messages processed before shutdown: {message_count}")
 
     logger.info(f"END consumer for topic '{topic}' and group '{group_id}'.")
 

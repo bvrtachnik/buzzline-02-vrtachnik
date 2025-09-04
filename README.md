@@ -1,3 +1,4 @@
+
 # buzzline-02-vrtachnik
 
 Streaming data is often too big for any one machine. Apache Kafka is a popular streaming platform that uses publish-subscribe patterns:
@@ -63,48 +64,30 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade -r requirements.txt
 ```
 
-## Task 3. Start a Kafka Producer
+# Custom Kafka Producer and Consumer
 
-Producers generate streaming data for our topics.
+This project includes custom Kafka producer and consumer scripts:
 
-In VS Code, open a terminal.
-Use the commands below to activate .venv, and start the producer.
+- `kafka_producer_vrtachnik.py` (producer)
+- `kafka_consumer_vrtachnik.py` (consumer)
 
-Windows:
+You can use these scripts to experiment with producing and consuming messages on your Kafka topics.
 
-```shell
-.venv\Scripts\activate
-py -m producers.kafka_producer_case
-```
+## Running Your Custom Producer and Consumer
 
-Mac/Linux:
-
-```zsh
-source .venv/bin/activate
-python3 -m producers.kafka_producer_case
-```
-
-## Task 4. Start a Kafka Consumer
-
-Consumers process data from topics or logs in real time.
-
-In VS Code, open a NEW terminal in your root project folder.
-Use the commands below to activate .venv, and start the consumer.
-
-Windows:
+### Windows Example
 
 ```shell
 .venv\Scripts\activate
-py -m consumers.kafka_consumer_case
+py -m producers.kafka_producer_vrtachnik
 ```
 
-Mac/Linux:
+### Mac/Linux Example
 
-```zsh
+```bash
 source .venv/bin/activate
-python3 -m consumers.kafka_consumer_case
+python3 -m consumers.kafka_consumer_vrtachnik
 ```
-
 ## Later Work Sessions
 
 When resuming work on this project:

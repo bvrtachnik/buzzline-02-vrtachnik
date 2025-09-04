@@ -1,1 +1,465 @@
-2025-09-04 19:01:11 | INFO | Processing message: Have a great day!
+2025-09-04 19:22:14 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:14 | INFO | Total messages processed: 208
+2025-09-04 19:22:15 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:15 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:15 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:15 | INFO | Total messages processed: 209
+2025-09-04 19:22:16 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:16 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:16 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:16 | INFO | Total messages processed: 210
+2025-09-04 19:22:17 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:17 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:17 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:17 | INFO | Total messages processed: 211
+2025-09-04 19:22:18 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:18 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:18 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:18 | INFO | Total messages processed: 212
+2025-09-04 19:22:19 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:19 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:19 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:19 | INFO | Total messages processed: 213
+2025-09-04 19:22:20 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:20 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:20 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:20 | INFO | Total messages processed: 214
+2025-09-04 19:22:21 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:21 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:21 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:21 | INFO | Total messages processed: 215
+2025-09-04 19:22:22 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:22 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:22 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:22 | INFO | Total messages processed: 216
+2025-09-04 19:22:23 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:23 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:23 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:23 | INFO | Total messages processed: 217
+2025-09-04 19:22:24 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:24 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:24 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:24 | INFO | Total messages processed: 218
+2025-09-04 19:22:25 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:25 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:25 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:25 | INFO | Total messages processed: 219
+2025-09-04 19:22:26 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:26 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:26 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:26 | INFO | Total messages processed: 220
+2025-09-04 19:22:27 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:27 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:27 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:27 | INFO | Total messages processed: 221
+2025-09-04 19:22:28 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:28 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:28 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:28 | INFO | Total messages processed: 222
+2025-09-04 19:22:29 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:29 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:29 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:29 | INFO | Total messages processed: 223
+2025-09-04 19:22:30 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:30 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:30 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:30 | INFO | Total messages processed: 224
+2025-09-04 19:22:31 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:31 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:31 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:31 | INFO | Total messages processed: 225
+2025-09-04 19:22:32 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:32 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:32 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:32 | INFO | Total messages processed: 226
+2025-09-04 19:22:33 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:33 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:33 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:33 | INFO | Total messages processed: 227
+2025-09-04 19:22:34 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:34 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:34 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:34 | INFO | Total messages processed: 228
+2025-09-04 19:22:35 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:35 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:35 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:35 | INFO | Total messages processed: 229
+2025-09-04 19:22:36 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:36 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:36 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:36 | INFO | Total messages processed: 230
+2025-09-04 19:22:37 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:37 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:37 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:37 | INFO | Total messages processed: 231
+2025-09-04 19:22:38 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:38 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:38 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:38 | INFO | Total messages processed: 232
+2025-09-04 19:22:39 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:39 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:39 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:39 | INFO | Total messages processed: 233
+2025-09-04 19:22:40 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:40 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:40 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:40 | INFO | Total messages processed: 234
+2025-09-04 19:22:41 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:41 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:41 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:41 | INFO | Total messages processed: 235
+2025-09-04 19:22:42 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:42 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:42 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:42 | INFO | Total messages processed: 236
+2025-09-04 19:22:43 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:43 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:43 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:43 | INFO | Total messages processed: 237
+2025-09-04 19:22:44 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:44 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:44 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:44 | INFO | Total messages processed: 238
+2025-09-04 19:22:45 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:45 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:45 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:45 | INFO | Total messages processed: 239
+2025-09-04 19:22:46 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:46 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:46 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:46 | INFO | Total messages processed: 240
+2025-09-04 19:22:47 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:47 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:47 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:47 | INFO | Total messages processed: 241
+2025-09-04 19:22:48 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:48 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:48 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:48 | INFO | Total messages processed: 242
+2025-09-04 19:22:49 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:49 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:49 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:49 | INFO | Total messages processed: 243
+2025-09-04 19:22:50 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:50 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:50 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:50 | INFO | Total messages processed: 244
+2025-09-04 19:22:51 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:51 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:51 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:51 | INFO | Total messages processed: 245
+2025-09-04 19:22:52 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:52 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:52 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:52 | INFO | Total messages processed: 246
+2025-09-04 19:22:53 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:53 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:53 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:53 | INFO | Total messages processed: 247
+2025-09-04 19:22:54 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:54 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:54 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:54 | INFO | Total messages processed: 248
+2025-09-04 19:22:55 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:55 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:55 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:22:55 | INFO | Total messages processed: 249
+2025-09-04 19:22:56 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:22:56 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:22:56 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:22:56 | INFO | Total messages processed: 250
+2025-09-04 19:22:57 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:22:57 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:22:57 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:22:57 | INFO | Total messages processed: 251
+2025-09-04 19:22:58 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:22:58 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:22:58 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:22:58 | INFO | Total messages processed: 252
+2025-09-04 19:22:59 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:22:59 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:22:59 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:22:59 | INFO | Total messages processed: 253
+2025-09-04 19:23:00 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:00 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:00 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:00 | INFO | Total messages processed: 254
+2025-09-04 19:23:01 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:01 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:01 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:01 | INFO | Total messages processed: 255
+2025-09-04 19:23:02 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:02 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:02 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:02 | INFO | Total messages processed: 256
+2025-09-04 19:23:03 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:03 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:03 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:03 | INFO | Total messages processed: 257
+2025-09-04 19:23:04 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:04 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:04 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:04 | INFO | Total messages processed: 258
+2025-09-04 19:23:05 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:05 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:05 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:05 | INFO | Total messages processed: 259
+2025-09-04 19:23:06 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:06 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:06 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:06 | INFO | Total messages processed: 260
+2025-09-04 19:23:07 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:07 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:07 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:07 | INFO | Total messages processed: 261
+2025-09-04 19:23:08 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:08 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:08 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:08 | INFO | Total messages processed: 262
+2025-09-04 19:23:09 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:09 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:09 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:09 | INFO | Total messages processed: 263
+2025-09-04 19:23:10 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:10 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:10 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:10 | INFO | Total messages processed: 264
+2025-09-04 19:23:11 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:11 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:11 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:11 | INFO | Total messages processed: 265
+2025-09-04 19:23:12 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:12 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:12 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:12 | INFO | Total messages processed: 266
+2025-09-04 19:23:13 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:13 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:13 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:13 | INFO | Total messages processed: 267
+2025-09-04 19:23:14 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:14 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:14 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:14 | INFO | Total messages processed: 268
+2025-09-04 19:23:15 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:15 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:15 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:15 | INFO | Total messages processed: 269
+2025-09-04 19:23:16 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:16 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:16 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:16 | INFO | Total messages processed: 270
+2025-09-04 19:23:17 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:17 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:17 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:17 | INFO | Total messages processed: 271
+2025-09-04 19:23:18 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:18 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:18 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:18 | INFO | Total messages processed: 272
+2025-09-04 19:23:19 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:19 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:19 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:19 | INFO | Total messages processed: 273
+2025-09-04 19:23:20 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:20 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:20 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:20 | INFO | Total messages processed: 274
+2025-09-04 19:23:21 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:21 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:21 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:21 | INFO | Total messages processed: 275
+2025-09-04 19:23:22 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:22 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:22 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:22 | INFO | Total messages processed: 276
+2025-09-04 19:23:23 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:23 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:23 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:23 | INFO | Total messages processed: 277
+2025-09-04 19:23:24 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:24 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:24 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:24 | INFO | Total messages processed: 278
+2025-09-04 19:23:25 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:25 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:25 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:25 | INFO | Total messages processed: 279
+2025-09-04 19:23:26 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:26 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:26 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:26 | INFO | Total messages processed: 280
+2025-09-04 19:23:27 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:27 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:27 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:27 | INFO | Total messages processed: 281
+2025-09-04 19:23:28 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:28 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:28 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:28 | INFO | Total messages processed: 282
+2025-09-04 19:23:29 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:29 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:29 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:29 | INFO | Total messages processed: 283
+2025-09-04 19:23:30 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:30 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:30 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:30 | INFO | Total messages processed: 284
+2025-09-04 19:23:31 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:31 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:31 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:31 | INFO | Total messages processed: 285
+2025-09-04 19:23:32 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:32 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:32 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:32 | INFO | Total messages processed: 286
+2025-09-04 19:23:33 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:33 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:33 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:33 | INFO | Total messages processed: 287
+2025-09-04 19:23:34 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:34 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:34 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:34 | INFO | Total messages processed: 288
+2025-09-04 19:23:35 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:35 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:35 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:35 | INFO | Total messages processed: 289
+2025-09-04 19:23:36 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:36 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:36 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:36 | INFO | Total messages processed: 290
+2025-09-04 19:23:37 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:37 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:37 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:37 | INFO | Total messages processed: 291
+2025-09-04 19:23:38 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:38 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:38 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:38 | INFO | Total messages processed: 292
+2025-09-04 19:23:39 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:39 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:39 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:39 | INFO | Total messages processed: 293
+2025-09-04 19:23:40 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:40 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:40 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:40 | INFO | Total messages processed: 294
+2025-09-04 19:23:41 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:41 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:41 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:41 | INFO | Total messages processed: 295
+2025-09-04 19:23:42 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:42 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:42 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:42 | INFO | Total messages processed: 296
+2025-09-04 19:23:43 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:43 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:43 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:43 | INFO | Total messages processed: 297
+2025-09-04 19:23:44 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:44 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:44 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:44 | INFO | Total messages processed: 298
+2025-09-04 19:23:45 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:45 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:45 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:45 | INFO | Total messages processed: 299
+2025-09-04 19:23:46 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:46 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:46 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:46 | INFO | Total messages processed: 300
+2025-09-04 19:23:47 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:47 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:47 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:47 | INFO | Total messages processed: 301
+2025-09-04 19:23:48 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:48 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:48 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:48 | INFO | Total messages processed: 302
+2025-09-04 19:23:49 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:49 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:49 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:49 | INFO | Total messages processed: 303
+2025-09-04 19:23:50 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:50 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:50 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:50 | INFO | Total messages processed: 304
+2025-09-04 19:23:51 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:51 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:51 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:51 | INFO | Total messages processed: 305
+2025-09-04 19:23:52 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:52 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:52 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:52 | INFO | Total messages processed: 306
+2025-09-04 19:23:53 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:53 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:53 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:53 | INFO | Total messages processed: 307
+2025-09-04 19:23:54 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:54 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:54 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:54 | INFO | Total messages processed: 308
+2025-09-04 19:23:55 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:55 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:55 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:23:55 | INFO | Total messages processed: 309
+2025-09-04 19:23:56 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:23:56 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:23:56 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:23:56 | INFO | Total messages processed: 310
+2025-09-04 19:23:57 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:23:57 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:23:57 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:23:57 | INFO | Total messages processed: 311
+2025-09-04 19:23:58 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:23:58 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:23:58 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:23:58 | INFO | Total messages processed: 312
+2025-09-04 19:23:59 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:23:59 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:23:59 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:23:59 | INFO | Total messages processed: 313
+2025-09-04 19:24:00 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:00 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:00 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:00 | INFO | Total messages processed: 314
+2025-09-04 19:24:01 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:24:01 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:24:01 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:24:01 | INFO | Total messages processed: 315
+2025-09-04 19:24:02 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:24:02 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:24:02 | INFO | Processing message: Still learning, so this might break.
+2025-09-04 19:24:02 | INFO | Total messages processed: 316
+2025-09-04 19:24:03 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:24:03 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:24:03 | INFO | Processing message: If you're reading this, it probably worked!
+2025-09-04 19:24:03 | INFO | Total messages processed: 317
+2025-09-04 19:24:04 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:24:04 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:24:04 | INFO | Processing message: Trying to get this Kafka thing working...
+2025-09-04 19:24:04 | INFO | Total messages processed: 318
+2025-09-04 19:24:05 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:05 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:05 | INFO | Processing message: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:05 | INFO | Total messages processed: 319
+2025-09-04 19:24:06 | INFO | Generated buzz: Is this how you're supposed to send messages?
+2025-09-04 19:24:06 | INFO | Sent message to topic 'buzzline': Is this how you're supposed to send messages?
+2025-09-04 19:24:06 | INFO | Processing message: Is this how you're supposed to send messages?
+2025-09-04 19:24:06 | INFO | Total messages processed: 320
+2025-09-04 19:24:07 | INFO | Generated buzz: Still learning, so this might break.
+2025-09-04 19:24:07 | INFO | Sent message to topic 'buzzline': Still learning, so this might break.
+2025-09-04 19:24:07 | WARNING | Consumer interrupted by user.
+2025-09-04 19:24:07 | INFO | Kafka consumer for topic 'buzzline' closed.
+2025-09-04 19:24:07 | INFO | Total messages processed before shutdown: 320
+2025-09-04 19:24:07 | INFO | END consumer for topic 'buzzline' and group 'default_group'.
+2025-09-04 19:24:08 | INFO | Generated buzz: If you're reading this, it probably worked!
+2025-09-04 19:24:08 | INFO | Sent message to topic 'buzzline': If you're reading this, it probably worked!
+2025-09-04 19:24:09 | INFO | Generated buzz: Trying to get this Kafka thing working...
+2025-09-04 19:24:09 | INFO | Sent message to topic 'buzzline': Trying to get this Kafka thing working...
+2025-09-04 19:24:10 | INFO | Generated buzz: Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:10 | INFO | Sent message to topic 'buzzline': Not totally sure what I'm doing, but here goes.
+2025-09-04 19:24:11 | WARNING | Producer interrupted by user.
+2025-09-04 19:24:11 | INFO | Kafka producer closed.
+2025-09-04 19:24:11 | INFO | END producer.
