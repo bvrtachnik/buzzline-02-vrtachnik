@@ -1,16 +1,1 @@
-2025-09-03 20:08:00 | INFO | Logging to file: logs/project_log.log
-2025-09-03 20:08:00 | INFO | Log sanitization enabled, personal info will be removed
-2025-09-03 20:08:00 | INFO | START producer.
-2025-09-03 20:08:00 | INFO | Loading environment variables from .env file...
-2025-09-03 20:08:00 | INFO | Kafka broker address: localhost:9092
-2025-09-03 20:08:02 | ERROR | Error checking Kafka: NoBrokersAvailable
-2025-09-03 20:08:02 | ERROR | Kafka broker is not ready. Please check your Kafka setup. Exiting...
-2025-09-03 20:08:17 | INFO | Logging to file: logs/project_log.log
-2025-09-03 20:08:17 | INFO | Log sanitization enabled, personal info will be removed
-2025-09-03 20:08:17 | INFO | START consumer.
-2025-09-03 20:08:17 | INFO | Kafka topic: buzzline
-2025-09-03 20:08:17 | INFO | Kafka consumer group id: default_group
-2025-09-03 20:08:17 | INFO | Consumer: Topic 'buzzline' and group 'default_group'...
-2025-09-03 20:08:17 | INFO | Kafka broker address: localhost:9092
-2025-09-03 20:08:17 | INFO | Creating Kafka consumer. Topic='buzzline' and group ID='default_group'.
-2025-09-03 20:08:19 | ERROR | Error creating Kafka consumer: NoBrokersAvailable
+2025-09-04 18:35:47 | INFO | Processing message: Streaming data is fun.
